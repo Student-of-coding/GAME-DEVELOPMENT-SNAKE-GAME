@@ -128,6 +128,22 @@ It demonstrates real-time rendering, event-driven input handling, and simple gam
 * **Mobile/Touch Controls**: Port to touchscreen devices
 * **Multiplayer Mode**: Two-player snake competition
 
+## Screenshots
+
+### Main Menu
+
+![Image](https://github.com/user-attachments/assets/f18bd3cb-1d41-4b70-a53a-16e3f115d183)
+
+### In-Game View (Level 5, Score: 150, Lives: 1)
+
+![Image](https://github.com/user-attachments/assets/43ea8fda-18e9-4780-903a-15ff553b2535)
+
+### Game Over Screen
+
+![Image](https://github.com/user-attachments/assets/6bc918a8-6057-43b6-a8fb-721df9ae2ada)
+
+
+
 ---
 
 Enjoy the game! 🐍 Feel free to raise issues or submit pull requests for any improvements.
